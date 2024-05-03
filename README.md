@@ -12,7 +12,7 @@ problems to help new people enter the field, and for enthusiastic
 practitioners to hone their skills. Many will require inventing new
 ideas.
 
-Also check out our new list: [Requests for Research 2.0](https://blog.openai.com/requests-for-research-2/)
+Also check out our new list: [Requests for Research 2.0](https://openai.com/index/requests-for-research-2)
 
 ## If you've solved a problem
 
